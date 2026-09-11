@@ -1,1 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Study Button - Random Task Picker</title>
+    <!-- Google Fonts for modern, sleek typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Link to our external CSS stylesheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Background glowing ambient lights for visual aesthetics -->
+    <div class="glow-orb orb-1"></div>
+    <div class="glow-orb orb-2"></div>
 
+    <main class="app-container">
+        <!-- Header Section -->
+        <header class="header">
+            <div class="badge">🎲 Focus Decision Maker</div>
+            <h1 class="title">Can't decide what to do?</h1>
+            <p class="subtitle">Hit the button below and let it choose your next study activity!</p>
+        </header>
+
+        <!-- The ONE Large Central "STUDY BUTTON" -->
+        <div class="button-wrapper">
+            <button id="main-study-btn" class="main-study-button" type="button">
+                <span class="btn-sparkle">✨</span>
+                <span class="btn-text">STUDY BUTTON</span>
+                <span class="btn-subtext">Click to pick your task</span>
+            </button>
+        </div>
+
+        <!-- Result Display Area (shows the randomly selected option) -->
+        <section id="result-box" class="result-card" style="display: none;"></section>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>Simple & Beginner Friendly • HTML, CSS & JavaScript</p>
+        </footer>
+    </main>
+
+    <!-- Link to JavaScript logic -->
+    <script src="script.js"></script>
+</body>
+</html>

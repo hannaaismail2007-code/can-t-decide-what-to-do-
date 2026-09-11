@@ -2,40 +2,34 @@
 
 
 
-# [Project Name] 🎯
+#cant decide what to do 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [tech titans]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [hanna ismail] - [sree narayana guru college of engineering and technology]
+- Member 2: [fadiya saheer] - [sree narayana guru college of engineering and technology]
 
 ### Project Description
-[2-3 lines about what your project does]
+[a button that decides what you should do,because apparantly making decisions are harder that studying]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[cant decide what to do]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[basically it does choose an option for us]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [HTML,CSS,javascripts]
+- [anti gravity IDE,microsoft edge,powershell]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
+-
 ### Implementation
 For Software:
 # Installation
@@ -48,26 +42,29 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+<img width="1526" height="830" alt="Screenshot 2026-09-11 172605" src="https://github.com/user-attachments/assets/6feea940-bd62-48e8-92e1-56239f45a5e2" />
+
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+<img width="1540" height="720" alt="Screenshot 2026-09-11 172624" src="https://github.com/user-attachments/assets/8faeb91d-71eb-4311-8834-1fda538552f2" />
+
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+<img width="1583" height="760" alt="Screenshot 2026-09-11 172655" src="https://github.com/user-attachments/assets/208b7adf-1846-48df-b496-0caedebde73c" />
+
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+
 *Add caption explaining your workflow*
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
+
 *Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
+
 *Add caption explaining the schematic*
 
 # Build Photos
